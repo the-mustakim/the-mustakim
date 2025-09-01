@@ -39,10 +39,10 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 ---
 
 ### 2) Hospital Management System
-**What it is:** A full‑stack system for patient records and workflows; optimized queries and indexes for faster retrieval.
-**Impact:** Handled **500+ patient profiles**, boosted data retrieval by **\~40%**, and reduced admin processing time by **\~25%**.
-**Tech:** React, Spring Boot, MySQL, AWS (deployment)
-**Repo:** `https://github.com/the-mustakim/Hospital_Management_System`
+* **What it is:** A full‑stack system for patient records and workflows; optimized queries and indexes for faster retrieval.
+* **Impact:** Handled **500+ patient profiles**, boosted data retrieval by **\~40%**, and reduced admin processing time by **\~25%**.
+* **Tech:** React, Spring Boot, MySQL, AWS (deployment)
+* **Repo:** `https://github.com/the-mustakim/Hospital_Management_System`
 
 ---
 
