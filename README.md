@@ -16,11 +16,11 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 
 ## 🧰 Skills Overview
 
-* **Languages:** Java 17, JavaScript, SQL
-* **Backend:** Spring Boot (REST, MVC, JPA/Hibernate), Spring Cloud (Gateway/Config), Apache Jena, OAuth2/OIDC, JWT/2FA, Keycloak, Testcontainers, REST Assured
+* **Languages:** Java, JavaScript, SQL
+* **Backend:** Spring Boot (REST, MVC, JPA/Hibernate), Spring Cloud (Gateway/Config), Apache Jena, OAuth2/OIDC, JWT/2FA, Keycloak.
 * **Data & Semantics:** RDF/JSON‑LD, DPV/PROV, MySQL, PostgreSQL, MongoDB
 * **Messaging & Infra:** RabbitMQ, Kafka, Docker & Compose
-* **Frontend:** React, Next.js, Redux, MUI, Bootstrap
+* **Frontend:** React, Redux, CSS, Bootstrap
 * **Practices:** Domain‑driven design, API‑first, CI/CD, observability, docs‑as‑code, Agile/Scrum
 
 ---
@@ -30,7 +30,7 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 ### 1) AI‑Powered Fitness — Microservices Suite
 **What it is:** A microservices playground combining **API Gateway**, **Config Server**, **AI Recommendation Service** (Gemini), with **Keycloak PKCE** for secure auth.
 **Tech:** Java 17, Spring Boot, Spring Cloud (Gateway/Config), RabbitMQ, Keycloak (OIDC/PKCE), React, Docker
-**Repo:** `https://github.com/the-mustakim/your-repo-fitness`
+**Repo:** `https://github.com/the-mustakim/AI-Powered-Fitness-Microservices`
 **Highlights:**
 * Centralized configuration and token‑aware routing
 * Async messaging with RabbitMQ; resilient service boundaries
@@ -41,7 +41,7 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 **What it is:** A full‑stack system for patient records and workflows; optimized queries and indexes for faster retrieval.
 **Impact:** Handled **500+ patient profiles**, boosted data retrieval by **\~40%**, and reduced admin processing time by **\~25%**.
 **Tech:** React, Spring Boot, MySQL, AWS (deployment)
-**Repo:** `https://github.com/the-mustakim/your-repo-hms`
+**Repo:** `https://github.com/the-mustakim/Hospital_Management_System`
 
 ---
 
@@ -50,7 +50,6 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 * **CHReME (HPC Resource Management Engine):** Coordinated backend development (Java, REST) integrating with **Slurm/Torque** and LDAP auth; improved job submission efficiency by **\~30%**.
 * **C‑Chakshu (Multi‑Cluster Monitoring):** Engineered Spring Boot microservices to aggregate cluster metrics for **22+ HPC systems** under India’s **NSM**.
 * **NSM User Creation Portal:** Designed multi‑step workflows and RBAC to reduce national HPC onboarding time by **\~55%**.
-> Case‑study write‑ups or source links can be added if public repos are available.
 ---
 
 ## 🎓 Education
@@ -76,5 +75,3 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 
 * Most repos include **README** files with architecture diagrams, API contracts, and example requests.
 * If you’re hiring or collaborating, I’d love to connect.
-
-> *“Simplify relentlessly. Design for people. Document so future‑you says thanks.”*
