@@ -1,4 +1,4 @@
-# Mustakim Sayyed — Backend‑First Software Engineer (Java/Spring, RDF/JSON‑LD, React)
+# Mustakim Sayyed — Backend‑First Software Engineer (Java/SpringBoot, RDF/JSON‑LD, React)
 
 > Building secure, scalable backend systems and semantic APIs that turn complex domains into clean, well‑documented services.
 
