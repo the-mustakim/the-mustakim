@@ -22,19 +22,20 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 * **Messaging & Infra:** RabbitMQ, Kafka, Docker & Compose
 * **Frontend:** React, Redux, CSS, Bootstrap
 * **Practices:** Domain‑driven design, API‑first, CI/CD, observability, docs‑as‑code, Agile/Scrum
+* * **Others:** System Design, SOLID Design Principles. 
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 1) AI‑Powered Fitness — Microservices Suite
-**What it is:** A microservices playground combining **API Gateway**, **Config Server**, **AI Recommendation Service** (Gemini), with **Keycloak PKCE** for secure auth.
-**Tech:** Java 17, Spring Boot, Spring Cloud (Gateway/Config), RabbitMQ, Keycloak (OIDC/PKCE), React, Docker
-**Repo:** `https://github.com/the-mustakim/AI-Powered-Fitness-Microservices`
-**Highlights:**
-* Centralized configuration and token‑aware routing
-* Async messaging with RabbitMQ; resilient service boundaries
-* AI service generates personalized activity recommendations
+* **What it is:** A microservices playground combining **API Gateway**, **Config Server**, **AI Recommendation Service** (Gemini), with **Keycloak PKCE** for secure auth.
+* **Tech:** Java 17, Spring Boot, Spring Cloud (Gateway/Config), RabbitMQ, Keycloak (OIDC/PKCE), React, Docker
+* **Repo:** `https://github.com/the-mustakim/AI-Powered-Fitness-Microservices`
+* **Highlights:**
+  * Centralized configuration and token‑aware routing
+  * Async messaging with RabbitMQ; resilient service boundaries
+  * AI service generates personalized activity recommendations
 ---
 
 ### 2) Hospital Management System
