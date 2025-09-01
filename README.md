@@ -2,7 +2,7 @@
 
 > Building secure, scalable backend systems and semantic APIs that turn complex domains into clean, well‑documented services.
 
-[![Java](https://img.shields.io/badge/Java+-blue)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-API%2FMicroservices-brightgreen)](#) [![RDF/JSON‑LD](https://img.shields.io/badge/Semantic%20Web-RDF%2FJSON--LD-purple)](#) [![React](https://img.shields.io/badge/Frontend-React-informational)](#) [![Keycloak](https://img.shields.io/badge/Auth-Keycloak%2FOIDC-lightgrey)](#) [![Docker](https://img.shields.io/badge/DevOps-Docker%2FRabbitMQ%2FKafka-lightgrey)](#)
+[![Java](https://img.shields.io/badge/Java-blue)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-API%2FMicroservices-brightgreen)](#) [![RDF/JSON‑LD](https://img.shields.io/badge/Semantic%20Web-RDF%2FJSON--LD-purple)](#) [![React](https://img.shields.io/badge/Frontend-React-informational)](#) [![Keycloak](https://img.shields.io/badge/Auth-Keycloak%2FOIDC-lightgrey)](#) [![Docker](https://img.shields.io/badge/DevOps-Docker%2FRabbitMQ%2FKafka-lightgrey)](#)
 
 ---
 
