@@ -8,7 +8,7 @@
 
 ## 👋 Introduction
 
-Hi, I’m **Mustakim Sayyed** (aka **@the\_mustakim**), a Software Engineer based in **Dublin, Ireland**. I specialize in **Java/Spring Boot microservices**, **security & auth** (Keycloak/OIDC/JWT/2FA), and **semantic web** technologies (RDF/JSON‑LD, DPV/PROV).
+Hi, I’m **Mustakim Sayyed**, a Software Engineer based in **Dublin, Ireland**. I specialize in **Java/Spring Boot microservices**, **security & auth** (Keycloak/OIDC/JWT/2FA), and **semantic web** technologies (RDF/JSON‑LD, DPV/PROV).
 
 I enjoy turning compliance and systems challenges into **elegant, API‑first solutions** with strong domain models, clear documentation, and production‑ready tooling.
 
