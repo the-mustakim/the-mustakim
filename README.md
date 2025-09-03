@@ -46,6 +46,10 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 
 ---
 
+## Learning:
+* LangChain4j
+* SemanticWeb
+
 ## 💼 Professional Highlights
 
 * **CHReME (HPC Resource Management Engine):** Coordinated backend development (Java, REST) integrating with **Slurm/Torque** and LDAP auth; improved job submission efficiency by **\~30%**.
