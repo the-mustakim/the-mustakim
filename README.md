@@ -47,7 +47,7 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 ---
 
 ## 🧠 Learning
-* LangChain4j: Exploring building AI‑driven conversational and reasoning pipelines in Java.
+* Spring AI: Exploring building AI‑driven conversational and reasoning pipelines in Java.
 * Semantic Web & Knowledge Graphs: Deepening expertise in RDF, JSON‑LD, DPV/PROV, and semantic modeling for real‑world applications.
 * Reactive & Cloud‑Native Patterns: Experimenting with Spring WebFlux, Kafka Streams, and scalable microservice architectures.
 * AI/ML Integration: Studying ways to integrate ML models with backend services for intelligent recommendations and analytics.
