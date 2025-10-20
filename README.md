@@ -16,13 +16,15 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 
 ## 🧰 Skills Overview
 
-* **Languages:** Java, JavaScript, SQL
-* **Backend:** Spring Boot (REST, MVC, JPA/Hibernate), Spring Cloud (Gateway/Config), Apache Jena, OAuth2/OIDC, JWT/2FA, Keycloak.
-* **Data & Semantics:** RDF/JSON‑LD, DPV/PROV, MySQL, PostgreSQL, MongoDB
-* **Messaging & Infra:** RabbitMQ, Kafka, Docker & Compose
-* **Frontend:** React, Redux, CSS, Bootstrap
+* **Languages:** Java, JavaScript, HTML/CSS, JSP, SQL.
+* **Backend:** Spring Boot (REST, MVC, JPA/Hibernate), Spring Cloud (Gateway/Config), Apache Jena, OAuth2/OIDC, JWT/2FA, Keycloak, Spring Security 6, OAuth 2.0, SSO, GraphQL, Microservices
+* **Data & Semantics:** RDF/JSON‑LD, DPV/PROV, MySQL, PostgreSQL, MongoDB, Redis. 
+* **Messaging & Infra:** RabbitMQ, Kafka
+* **Frontend:** React, Redux, CSS, Bootstrap 5
+* **Testing & Devops**: Junit, Mockito, AWS, CI/CD, Docker, Kubernetes.
 * **Practices:** Domain‑driven design, API‑first, CI/CD, observability, docs‑as‑code, Agile/Scrum
-* * **Others:** System Design, SOLID Design Principles. 
+* **Developer Tools**: VS Code, STS, IntelliJ, Eclipse, Postman.
+* * **Others:** System Design, SOLID Design Principles, Java Multithreading and Concurrency. 
 
 ---
 
