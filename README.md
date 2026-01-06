@@ -30,7 +30,7 @@ I enjoy turning compliance and systems challenges into **elegant, API‑first so
 
 ## ⭐ Featured Projects
 
-### 1) AI‑Powered Fitness — Microservices Suite
+### 1) AI‑Powered Fitness - Microservices Suite
 * **What it is:** A microservices playground combining **API Gateway**, **Config Server**, **AI Recommendation Service** (Gemini), with **Keycloak PKCE** for secure auth.
 * **Tech:** Java 17, Spring Boot, Spring Cloud (Gateway/Config), RabbitMQ, Keycloak (OIDC/PKCE), React, Docker
 * **Repo:** <https://github.com/the-mustakim/AI-Powered-Fitness-Microservices>
